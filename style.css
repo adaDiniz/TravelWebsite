@@ -6,6 +6,7 @@ body{
   margin: 0;
   background-color: rgb(240, 240, 240);
   text-align: center;
+  width: 100%;
   
 }
 
@@ -32,7 +33,7 @@ a{
 }
 
 #quemsomos{
-  background-image: url(./Imagens/mid-shot-woman-hand-out-of-car-window-and-holding-hat-near-sea.jpg);
+  background-image: url(./Img/mid-shot-woman-hand-out-of-car-window-and-holding-hat-near-sea.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -67,6 +68,7 @@ button {
   padding: 18px 35px;
   text-align: center;
   font-weight: bold;
+  cursor:pointer;
 }
 
 button:hover{
@@ -194,6 +196,7 @@ textarea{
 
 .submit:hover {
   background-color: #24a19d81;
+  cursor:pointer;
 }
 
 footer{
